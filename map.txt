@@ -1,0 +1,14 @@
+map is a interface dictionary
+which accept value in key and value both key and value can be of any type
+
+key should always be unique value can be different.
+map cannot be iterated to iterate over a map it must be convert into a set
+
+tree map
+use red black tree as the internal ds
+map cannot be stored(convert in tree set and then sort)
+key should be homogenous values can be heterogenous
+key should not be the duplicate (old key and value will be replaced by new key and value pair)
+keys cannot be null but values can be null
+insertion order is not maintained in tree map but entries are sort in natural order ascending based on keys
+

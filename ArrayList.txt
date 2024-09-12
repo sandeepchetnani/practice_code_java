@@ -1,0 +1,10 @@
+Arraylist characteristics
+
+1.allow heterogenous value
+2.indexing is allowed
+3.can be sorted
+4.dupilicates and null values are allowed
+5.internally makes use of array
+6.implemental factor of arraylist is75%
+7.is non synchronise in nature
+

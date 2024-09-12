@@ -1,0 +1,15 @@
+string
+It is a sequence of character
+string are immutable  
+we cannot modify the string  
+String has various method with the help of which we can perform multiple operation
+
+
+both are mutable
+
+String builder used for multithreading
+
+
+
+String buffer
+not good for multithreading

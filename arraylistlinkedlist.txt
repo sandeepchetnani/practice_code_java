@@ -1,0 +1,56 @@
+synchrozed
+asynchrozied
+difference between array list and linked list
+
+1. arraylist are asynchronized vs linked list is synchronized
+2. the internal  structure of arraylist after full is 75%  and linked list not incremental factor    
+3.al is dynamic array and ll is doubly linked list
+4.  null values are allowed
+5. duplicates and heterogenous values are allowed
+6. al support indexing and ll doesnot support indexing
+7. al needs linear sequential block of memory to be created    while ll  does need linear sequential block
+8.insertion orde]r is mainted in al and ll
+
+set:
+tree set:
+1.only unique element can be stored in set interface
+2. implementing class hash ,linked hash tree
+3. sorting order of tree set is natural sorting of ascending order
+4. heterogenous values are not allowed in tree set(Note:- it will not throw a error except it will throw a class cast exception)
+5.duplicates values are not allowed in the tree set
+6.the natural order and identification of duplicates are used  compareTo() method of comparable interface
+7.the internal data  structure is tree map
+8.null values are not allowed(cte will not occur instead we get a null pointer exception
+9.there is not incremental factor
+10.tree set is the only implemented class of set interface which allow sorting 
+11.tree set does not allow indexing
+red black tree avl 
+12 sort in decesending order with the help constructor
+
+
+
+hash set:
+1.hash set internally use hash map to store values (insertion order of data is not maintained,random order)
+2.since its a set duplicates values are not allowed
+3.we can store heterogenous values in hash set
+4.indexing is not allowed in hash set
+5.null value sis allowed in hash set 	
+6.duplicates are not allowed (makes use of equals and hashcode() to eliminate the dupliciatess)
+
+
+linked hash set
+
+same as hash set
+use linked hash map use equal and hashcode
+order of insertion is preserved
+
+
+vector stack
+
+
+queue tomorrow 
+
+
+
+
+

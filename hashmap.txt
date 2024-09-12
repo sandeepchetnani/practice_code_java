@@ -1,0 +1,20 @@
+treemap can be sorted but hash map and linked hash map cannot be sorted
+
+hash map;
+1.null values as a key as well
+2.null value as value 
+3.we can have heterogenous value
+4.data will be stored randomly in hash map insertion order is not maintained
+5.old key value pair will be replaced with new key value
+6.
+
+
+linked hash map
+
+1.internal ds is linked hash table
+all same other
+insertion order is preserved
+1.null values as a key as well
+2.null value as value 
+3.we can have heterogenous value
+4.old key value pair will be replaced with new key value

@@ -1,0 +1,9 @@
+ a function written in the argument of another function is known as higher order function
+
+
+file handling
+
+file class
+file input stream
+file output stream
+
